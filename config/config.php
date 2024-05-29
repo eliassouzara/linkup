@@ -1,6 +1,6 @@
 <?php
 //Configurações do banco de dados
-$sevidor = "local";
+$sevidor = "localhost";
 $dbusuario = "root";
 $dbsenha = "";
 $dbnome = "linkup";
